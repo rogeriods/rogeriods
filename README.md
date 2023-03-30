@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rogeriods
-- 👀 I’m interested in DevOPS and Web Development
+- 👀 I’m interested in DevOPS and Fullstack Developer
 - 🌱 I’m currently learning Kubernetes and Golang
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me rogerio.ds@hotmail.com
